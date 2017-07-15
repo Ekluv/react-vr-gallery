@@ -1,11 +1,11 @@
-# Reduxoplate
-React Redux Boilerplate
+# VR Gallery
+React VR Gallery
 
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
-    > git clone https://github.com/Ekluv/Reduxoplate.git
-    > cd Reduxoplate
+    > git clone https://github.com/Ekluv/react-vr-gallery.git
+    > cd react-vr-gallery
     > npm install
     > npm start
     
